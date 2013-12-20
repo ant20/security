@@ -81,7 +81,7 @@ public class Main {
                 wrt.write(singnatureStr);
             }
 
-            System.out.println("SuccessMastesr222");
+            System.out.println("SuccessMaster");
 
         } catch (Exception ex) {
             System.out.println("Error while creating singnature");
